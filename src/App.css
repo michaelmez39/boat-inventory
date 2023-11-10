@@ -1,0 +1,10 @@
+#root {
+  width: 500px;
+  padding: 2rem;
+}
+
+.card {
+  border: 2px white solid;
+  border-radius: 1px; 
+}
+
